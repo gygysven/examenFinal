@@ -45,18 +45,11 @@ body {
     margin-bottom: 10px;
 }
 
-footer {
-    background-color: #343a40;
-}
-
-footer a {
-    color: #fff;
-}
-
 footer a:hover {
     text-decoration: underline;
 }
 
 .container h1, .container h2 {
     color: #0c5e96;
+    font-weight: bold;
 }
