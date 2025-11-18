@@ -1,0 +1,11 @@
+body{
+    color: rgb(110, 164, 182);
+}
+
+div{
+    border-radius: 15px;
+}
+
+#descripcion{
+    resize: none;
+}
