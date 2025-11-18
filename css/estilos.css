@@ -36,15 +36,11 @@ body {
     background-color: #f8f9fa;
 }
 
-h1, h2 {
-    color: #0c5e96;
-}
-
-ul {
+.container ul, .container li {
     list-style-type: none;
 }
 
-ul li {
+.container ul li {
     font-size: 1.1em;
     margin-bottom: 10px;
 }
@@ -59,4 +55,8 @@ footer a {
 
 footer a:hover {
     text-decoration: underline;
+}
+
+.container h1, .container h2 {
+    color: #0c5e96;
 }
